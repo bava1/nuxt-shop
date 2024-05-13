@@ -47,6 +47,7 @@
   position: fixed;
   width: 100%;
   background-color: #143349 !important;
+  z-index: 999;
 
   &-main {
     width: 100%;
